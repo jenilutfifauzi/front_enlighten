@@ -1,1 +1,1 @@
-Front Enlighten menggunakan html dan cc
+Front Enlighten menggunakan html dan css
